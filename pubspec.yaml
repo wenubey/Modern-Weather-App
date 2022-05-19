@@ -17,12 +17,14 @@ dependencies:
   geolocator: ^8.2.0
   permission_handler: ^9.2.0
   http: ^0.13.4
+  flutter_spinkit: ^5.1.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
 
   flutter_lints: ^1.0.0
+
 
 flutter:
 
